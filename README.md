@@ -1,20 +1,8 @@
-MOUNTING
-------
-constructor() => render() => componentDidMount()
+#star-db
+Учебный React проект
 
-
-UPDATES
-------
-New Props
-              => render() => componentDidUpdate(
-setState()                      prevProps, prevState)
-
-
-UNMOUNTING
-------
-componentWillUnmount()
-
-
-ERROR
-------
-componentDidCatch()
+<p>Применимые технологии:</p>
+<ul>
+<li>Подключение к API</li>
+<li>Методы жизненного цикла компонентов</li>
+  </ul>
